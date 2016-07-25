@@ -15,7 +15,7 @@ Linux开发环境工具集
   
   binpack视频介绍：  
 
-  下载:  http://pan.baidu.com/s/1kUSn3TX
+  下载(400M):  http://pan.baidu.com/s/1kUSn3TX
 
   
   
